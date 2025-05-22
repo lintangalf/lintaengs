@@ -10,3 +10,4 @@ st.write("\n")
 st.subheader("Lintang Nindya")
 st.write(
     "Ayo makan sate taichan sama aku!")
+
